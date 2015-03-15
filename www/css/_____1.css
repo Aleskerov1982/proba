@@ -1,0 +1,120 @@
+.version.______1 /* version checker */
+{
+	color: #0000F1;
+	background-color: #F2AB3A;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 353px;
+	min-height: 428px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 71px 11px 71px 16px;
+}
+
+#u1173-160
+{
+	z-index: 2;
+	width: 353px;
+	min-height: 1548px;
+	background-color: transparent;
+	font-family: ubuntu, sans-serif;
+	position: relative;
+}
+
+#u1173-2
+{
+	text-align: center;
+	text-transform: uppercase;
+	color: #2E3192;
+	font-weight: 400;
+}
+
+#u1173-84
+{
+	text-align: left;
+	text-transform: none;
+	color: #FF0000;
+	font-weight: 300;
+}
+
+#u1173-128
+{
+	text-decoration: underline;
+	text-align: justify;
+	text-transform: none;
+	color: #FF0000;
+	font-weight: 300;
+}
+
+#u1173-3,#u1173-5,#u1173-13,#u1173-18,#u1173-32,#u1173-43,#u1173-57,#u1173-68,#u1173-76,#u1173-92,#u1173-97,#u1173-108,#u1173-113,#u1173-130,#u1173-138,#u1173-152
+{
+	text-align: justify;
+	text-transform: none;
+	color: #FF0000;
+	font-weight: 300;
+}
+
+#u1173,#u1173-4,#u1173-12,#u1173-17,#u1173-31,#u1173-42,#u1173-56,#u1173-67,#u1173-75,#u1173-83,#u1173-91,#u1173-96,#u1173-107,#u1173-112,#u1173-129,#u1173-137,#u1173-151
+{
+	text-decoration: underline;
+}
+
+#u1173-7,#u1173-8,#u1173-10,#u1173-11,#u1173-15,#u1173-16,#u1173-20,#u1173-21,#u1173-23,#u1173-24,#u1173-26,#u1173-27,#u1173-29,#u1173-30,#u1173-34,#u1173-35,#u1173-37,#u1173-38,#u1173-40,#u1173-41,#u1173-45,#u1173-46,#u1173-48,#u1173-49,#u1173-51,#u1173-52,#u1173-54,#u1173-55,#u1173-59,#u1173-60,#u1173-62,#u1173-63,#u1173-65,#u1173-66,#u1173-70,#u1173-71,#u1173-73,#u1173-74,#u1173-78,#u1173-79,#u1173-81,#u1173-82,#u1173-86,#u1173-87,#u1173-89,#u1173-90,#u1173-94,#u1173-95,#u1173-99,#u1173-100,#u1173-102,#u1173-103,#u1173-105,#u1173-106,#u1173-110,#u1173-111,#u1173-115,#u1173-116,#u1173-118,#u1173-119,#u1173-121,#u1173-122,#u1173-124,#u1173-125,#u1173-127,#u1173-132,#u1173-133,#u1173-135,#u1173-136,#u1173-140,#u1173-141,#u1173-143,#u1173-144,#u1173-146,#u1173-147,#u1173-149,#u1173-150,#u1173-154,#u1173-155,#u1173-157
+{
+	text-align: justify;
+	text-transform: none;
+	font-weight: 300;
+}
+
+#u1173-158
+{
+	text-transform: none;
+	font-weight: 300;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

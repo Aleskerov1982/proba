@@ -1,0 +1,68 @@
+<manifest alg="2" build="1176" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1426394709371">
+  <folder name="css">
+    <file name="site_global.css" crc="130713889"/>
+    <file name="_____9.css" crc="393955491" ref="глава9"/>
+    <file name="_____6.css" crc="71631034" ref="глава6"/>
+    <file name="_____3.css" crc="479161989" ref="глава3"/>
+    <file name="iefonts______3.css" crc="528847090" ref="глава3"/>
+    <file name="index.css" crc="4281269128" ref="index"/>
+    <file name="iefonts_index.css" crc="4203494707" ref="index"/>
+    <file name="______2.css" crc="121605255" ref="раздел2"/>
+    <file name="_____7.css" crc="175081905" ref="глава7"/>
+    <file name="_____1.css" crc="4059212602" ref="глава1"/>
+    <file name="iefonts______1.css" crc="3785743591" ref="глава1"/>
+    <file name="_____8.css" crc="3877558241" ref="глава8"/>
+    <file name="_____4.css" crc="179593407" ref="глава4"/>
+    <file name="iefonts______4.css" crc="3795041018" ref="глава4"/>
+    <file name="_____5.css" crc="4114459677" ref="глава5"/>
+    <file name="_____2.css" crc="532160865" ref="глава2"/>
+    <file name="iefonts______2.css" crc="4092577310" ref="глава2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:глава1:глава2:глава3:глава4:глава5:глава6:глава7:глава8:глава9:раздел2"/>
+    <file name="museutils.js" crc="3793461109" ref="index:глава1:глава2:глава3:глава4:глава5:глава6:глава7:глава8:глава9:раздел2"/>
+    <file name="pie.js" crc="3827607177" ref="index:глава3:глава4"/>
+    <file name="jquery.musemenu.js" crc="492415246" ref="index:глава3:глава4"/>
+    <file name="webpro.js" crc="4263367560" ref="index:глава3:глава4"/>
+    <file name="musewpslideshow.js" crc="126372691" ref="index:глава3:глава4"/>
+    <file name="jquery.museoverlay.js" crc="3946374898" ref="index:глава3:глава4"/>
+    <file name="touchswipe.js" crc="3796284560" ref="index:глава3:глава4"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index:глава1:глава2:глава3:глава4:глава5:глава6:глава7:глава8:глава9:раздел2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:глава1:глава2:глава3:глава4:глава5:глава6:глава7:глава8:глава9:раздел2"/>
+  </folder>
+  <folder name="images">
+    <file name="aleskerovsoftsmall.png" crc="329932493" ref="index"/>
+    <file name="services-ieu383-fr.png" crc="3946308291" ref="index:глава3:глава4"/>
+    <file name="services.png" crc="3946308291" ref="index:глава3:глава4"/>
+    <file name="black-arrow-u393-fr.png" crc="4013491104" ref="index:глава3:глава4"/>
+    <file name="black-arrow-ieu393-fr.png" crc="24211360" ref="index:глава3:глава4"/>
+    <file name="black-arrow-u393-fr2.png" crc="4013491104" ref="index:глава3:глава4"/>
+    <file name="black-arrow-ieu393-fr2.png" crc="24211360" ref="index:глава3:глава4"/>
+    <file name="black-arrow-u393-r-fr.png" crc="3971081719" ref="index:глава3:глава4"/>
+    <file name="black-arrow-ieu393-r-fr.png" crc="3903518714" ref="index:глава3:глава4"/>
+    <file name="case-studies-ieu335-fr.png" crc="3847093270" ref="index:глава3:глава4"/>
+    <file name="case-studies.png" crc="3847093270" ref="index:глава3:глава4"/>
+    <file name="black-arrow-ieu338-fr.png" crc="455366563" ref="index:глава3:глава4"/>
+    <file name="black-arrow-ieu338-r-fr.png" crc="487443179" ref="index:глава3:глава4"/>
+    <file name="black-arrow-ieu1392-fr.png" crc="254063390" ref="index:глава3:глава4"/>
+    <file name="black-arrow-ieu1392-r-fr.png" crc="147510278" ref="index:глава3:глава4"/>
+    <file name="contact-ieu374-fr.png" crc="3972108336" ref="index:глава3:глава4"/>
+    <file name="contact.png" crc="3972108336" ref="index:глава3:глава4"/>
+    <file name="about-ieu344-fr.png" crc="3772555179" ref="index:глава3:глава4"/>
+    <file name="about.png" crc="3772555179" ref="index:глава3:глава4"/>
+    <file name="contact2.png" crc="484411747" ref="index:глава3:глава4"/>
+    <file name="home-ieu332-fr.png" crc="336636309" ref="index:глава3"/>
+    <file name="home.png" crc="336636309" ref="index:глава3"/>
+  </folder>
+  <file name="index.html" crc="3869944211" mt="1426388123793" redirect="true"/>
+  <file name="глава1.html" crc="188920638" mt="1426388123793" redirect="true"/>
+  <file name="глава2.html" crc="480704668" mt="1426388123793" redirect="true"/>
+  <file name="глава3.html" crc="4034156607" mt="1426388123793" redirect="true"/>
+  <file name="глава4.html" crc="327127738" mt="1426388123793" redirect="true"/>
+  <file name="глава5.html" crc="386461058" mt="1426388123793" redirect="true"/>
+  <file name="глава6.html" crc="4131651319" mt="1426388123793" redirect="true"/>
+  <file name="глава7.html" crc="99300407" mt="1426388123793" redirect="true"/>
+  <file name="глава8.html" crc="165047114" mt="1426388123793" redirect="true"/>
+  <file name="глава9.html" crc="4181499368" mt="1426388123793" redirect="true"/>
+  <file name="раздел2.html" crc="3897053841" mt="1426388123793" redirect="true"/>
+</manifest>

@@ -1,0 +1,85 @@
+.version.______5 /* version checker */
+{
+	color: #0000F5;
+	background-color: #3DAC1D;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 333px;
+	min-height: 428px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 71px 21px 71px 26px;
+}
+
+#u1348-280
+{
+	z-index: 2;
+	width: 333px;
+	background-color: transparent;
+	text-align: justify;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+}
+
+#u1348-2
+{
+	color: #FF0000;
+	font-weight: bold;
+}
+
+#u1348
+{
+	text-decoration: underline;
+}
+
+#u1348-3,#u1348-5,#u1348-11,#u1348-23
+{
+	color: #FF0000;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
